@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<!--
+<table align='right'>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ctfrookie&include_all_commits=true&hide_border=true" width="400"></td></tr>
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ctfrookie" width="400" /></td></tr>
+</table>
+
+> 
+
 **ctfrookie/ctfrookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+> 
