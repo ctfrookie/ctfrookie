@@ -1,23 +1,13 @@
-## Hi there 👋
+## 你好，我是 Liu 👋
 
-<table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ctfrookie&include_all_commits=true&hide_border=true" width="400"></td></tr>
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ctfrookie" width="400" /></td></tr>
-</table>
+> 主业：网络运维 | 副业：什么都想研究一下
 
-> 
+- 🔧 白天修网络，晚上折腾乱七八糟的东西
+- 🚩 CTF 退役选手，很久没打了，手有点生
+- 🌱 最近可能在学：不知道，想到什么学什么
+- 💬 可以聊聊：运维踩坑、CTF 考古、奇技淫巧
+- 📫 随缘联系
 
-**ctfrookie/ctfrookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-> 
+![Stats](https://github-readme-stats.vercel.app/api?username=ctfrookie&hide_border=true&theme=default&hide_title=true&show_icons=true)
