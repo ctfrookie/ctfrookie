@@ -7,7 +7,3 @@
 - 🌱 最近可能在学：不知道，想到什么学什么
 - 💬 可以聊聊：运维踩坑、CTF 考古、奇技淫巧
 - 📫 随缘联系
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ctfrookie&hide_border=true&theme=default&hide_title=true&show_icons=true)
